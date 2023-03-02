@@ -2,6 +2,7 @@ const side1 = prompt('Enter length for a side of the first square: ');
 const side2 = prompt('Enter length for a side of the second square: ');
 const side3 = prompt('Enter length for a side of the third square: ');
 
+
 function perimeter(side)
 {    
     side = side * 4;

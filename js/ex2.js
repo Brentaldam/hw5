@@ -13,6 +13,7 @@ function Func(item, index, arr) {
     arr[index] = Math.pow(item, 2);
   } 
 
+  
 console.log(`An array of odds: [${odds}]`);
 console.log(`An array divisible by 2 or 5: [${div}]`);
 console.log(`An array divisible by 3 then squared: [${sqr}]`);
